@@ -89,11 +89,11 @@
             // button1
             // 
             button1.Font = new Font("Century Gothic", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button1.Location = new Point(78, 370);
+            button1.Location = new Point(78, 327);
             button1.Name = "button1";
-            button1.Size = new Size(75, 23);
+            button1.Size = new Size(75, 66);
             button1.TabIndex = 6;
-            button1.Text = "button1";
+            button1.Text = "Calculate and Display";
             button1.UseVisualStyleBackColor = true;
             // 
             // button2
